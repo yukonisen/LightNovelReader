@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="translators">NightFish, yukonisen</string>
     <!-- navigation items -->
@@ -27,7 +28,7 @@
     <string name="ignore_version">忽略该版本</string>
     <!-- Hints -->
     <string name="page_in_progress">施工中</string>
-    <string name="page_in_progress_desc">该区域功能暂未完成\n单击下方导航栏以转到其他页面"</string>
+    <string name="page_in_progress_desc">该区域功能暂未完成\n单击下方导航栏以转到其他页面\"</string>
     <string name="nothing_here">没有内容</string>
     <string name="nothing_here_desc_reading">阅读一些书本之后，它们将显示在此处。</string>
     <string name="nothing_here_desc_search">这里将保存最近的搜索结果\n单击搜索栏左侧图标，并指定搜索范围</string>
@@ -80,6 +81,4 @@
     <string name="filter_by_publishing_house_desc">根据小说文库的筛选。</string>
     <string name="book_info_update_date">更新: %s-%s-%s</string>
     <string name="book_info_word_count_kilo">%dK 字</string>
-
-
 </resources>
